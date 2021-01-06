@@ -73,7 +73,7 @@ const NavButton = styled.div`
 const Navbar = () => {
   return (
     <Nav>
-      <Logo to="/">RAIN</Logo>
+      <Logo to="/">Andre Almeida</Logo>
       <MenuBars />
       <NavMenu>
         {menuData.map((item, index) => (
