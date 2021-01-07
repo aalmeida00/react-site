@@ -185,7 +185,7 @@ const Hero = ({ slides }) => {
                       `}
                     >
                       {slide.label}
-                      {/* <Arrow /> */}
+                      <Arrow />
                     </Button>
                   </HeroContent>
                 </HeroSlider>
